@@ -1,0 +1,42 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-drivers"
+tap "homebrew/core"
+brew "python@3.9"
+brew "awscli"
+brew "gh"
+brew "gnupg"
+brew "grep"
+brew "mas"
+brew "mysql-client@5.7"
+brew "nghttp2"
+brew "node"
+brew "node@14"
+brew "poetry"
+brew "pre-commit"
+brew "pyenv"
+brew "tfenv"
+brew "vercel-cli"
+brew "yarn"
+cask "1password"
+cask "alfred"
+cask "cloudflare-warp"
+cask "discord"
+cask "docker"
+cask "figma"
+cask "firefox"
+cask "google-chrome"
+cask "iterm2"
+cask "jetbrains-toolbox"
+cask "keepingyouawake"
+cask "logitech-options"
+cask "ngrok"
+cask "slack"
+cask "visual-studio-code"
+mas "KakaoTalk", id: 869223134
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Telegram", id: 747648890
+mas "Xcode", id: 497799835
